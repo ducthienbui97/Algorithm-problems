@@ -1,0 +1,127 @@
+% Fill in the template below. Here are some LaTeX quick tips:
+% - %, {, }, $, _, ^, ~, \ and & are all special characters. Generally
+%   precede them by a \ to get the literal character, although
+%   \backslash gives a \ and \~{} gives a ~.
+% - % is a comment character.
+% - Surround maths with $'s (for example, $a+(b^c)$). LaTeX takes care
+%   of correct spacing. You can get <= and >= with \le and \ge in maths
+%   mode. _ and ^ give subscripts and superscripts. If the subscript or
+%   superscript is more than one character, put it inside braces {}.
+% - To get a ..., use \dots.
+% - To get an opening single quote, use ` and not '
+% - For double quotes, use `` to open and '' to close. LaTeX turns these
+%   into double quotes.
+% - A blank line starts a new paragraph.
+% - To get a hyphen, use - (e.g. half-baked). To get a range, use -- (e.g.
+%   1--10). To get a dash use --- (e.g. don't do that --- it will be taken
+%   care of).
+% - See the template Scoring section for how to use bullets. For a numbered
+%   list, replace itemize with enumerate.
+% - To make large numbers more readable use \ in math mode, as a thousands
+%   separator. See the template Constraints section for an example.
+% - Use "\ " (without quotes) after after full stops in abbreviations. This
+%   tells LaTeX not to include a larger space used between sentences.
+\documentclass{saco}
+\begin{document}
+\maketitle
+
+\section{Introduction}
+% Introduce the problem as a real-life situation.
+
+Fred the Manic Storekeeper has decided to enter the mining industry. He is eyeing a large plot of land which he believes holds great riches below the surface.
+However, he cannot decide precisely where to dig the mine.
+
+\section{Task}
+% Describe what task your program must perform.
+
+Fred has partitioned the land into cells. For each cell, he has determined how much profit he can expect to make by mining at that position.
+Some cells are resource rich and so give a large profit, while others are mainly dirt and so would result in a net loss.
+
+Given a grid representing the profits obtainable from mining each of the cells (in thousands of rands), determine the rectangular region that would
+yield the greatest total profit, were Fred to build his mine there.
+
+\textbf{Implementation Note}: The \texttt{max} function in Python is very slow. If you are using Python and require this functionality, it may be necessary to implement the comparisons yourself to achieve top marks.
+
+\section{Example}
+% Provide a concrete example.
+
+Suppose Fred provides us with the following grid.
+\begin{table}[h!bt]
+\begin{center}
+\begin{tabular}{lll}
+ 1 & 1 & -4 \\
+ 4 & -1 & 3 \\
+ -1 & 3 & 0
+\end{tabular}
+\end{center}
+\end{table}
+
+By choosing the lower $2$x$3$ rectangle, Fred can achieve a profit of $4-1+3-1+3+0 = 8$ or $\mathrm{R}8\,000$.
+This choice is the best possible.
+
+\inputformat
+% Describe the input format. Be specific about whitespace. Note that
+% the command above outputs the filename, so you should not mention
+% it. Put variables into maths mode.
+% Example:
+% The first line of the input contains two space-separated integers, $N$
+% and $T$. The next $N$ lines each contain four space-separated integers,
+% $x_1, y_1, x_2$ and $y_2$. The lower-left and upper-right corner of the
+% rectangles are at $(x_1, y_1)$ and $(x_2, y_2)$.
+
+% This command pastes in the actual sample input file.
+\sampleinput
+
+\outputformat
+% Describe the output format, as with the input format.
+
+% This command pastes in the result of running the sample input through
+% the sample solution.
+\sampleoutput
+
+
+\section{Constraints}
+% Specify any constraints on the input (and possibly output) data. Make
+% sure that all variables are constrained, even if the constraint is
+% simply that it will fit into a signed 32-bit integer. It should
+% generally be possible to write a solution that will get a correct
+% answer for all legal data, not just the chosen test cases. Don't
+% forget to set lower bounds, either here or by using words like
+% "positive integer" in the input format. Use \, as a thousands
+% as in the example below.
+%
+% Example:
+\begin{itemize}
+\item $1 \le N,M \le 190$
+\item Each grid entry lies between $-1\,500$ and $1\,500$
+\item At least one entry will be positive.
+\end{itemize}
+
+Additionally, in 30\% of the test cases:
+\begin{itemize}
+\item $N,M \le 20$
+\end{itemize}
+
+And in 60\% of the test cases:
+\begin{itemize}
+\item $N,M \le 50$
+\end{itemize}
+
+% Fill in constraints that will be met by half of the test cases. There
+% should exist a simple solution that will solve these 50% constraints.
+
+% This command will paste in the time limit from the options file.
+\timelimit (Python: 10 seconds)
+
+% This command will paste in the detailed feedback section if enabled.
+\feedback
+
+\section{Scoring}
+% Provide an explicit scoring algorithm. Remember that you have to use
+% \% to get a % sign. Specify what happens to fractional scores (if
+% they can occur), since they must be converted to integers (usually
+% rounded down).
+
+A correct solution will score 100\%, whereas an incorrect solution will score 0\%.
+
+\end{document}

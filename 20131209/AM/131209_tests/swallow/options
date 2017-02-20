@@ -1,0 +1,13 @@
+problem.type='run'
+problem.runs=10
+problem.max_time=1
+compiler.python.time_multiplier=10
+compiler.jdk.time_multiplier=2
+problem.sample='swallow.cpp'
+problem.score.sample=10
+problem.score.real=100
+problem.name='Swallow Messaging'
+problem.author='Kosie van der Merwe'
+problem.owner='kvanderm'
+problem.stdin
+problem.stdout

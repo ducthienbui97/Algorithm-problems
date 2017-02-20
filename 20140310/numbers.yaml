@@ -1,0 +1,7 @@
+nome_breve: "numbers"
+nome: "numbers"
+timeout: 1
+memlimit: 256
+n_input: 66
+infile: ""
+outfile: ""

@@ -1,0 +1,33 @@
+<Exam Name="Distance" TestScore="1" TestTimeout="2" ResultComparer="WordIgnoreCase">
+  <Inputs>
+    <Text>Distance.INP</Text>
+  </Inputs>
+  <Outputs>
+    <Text>Distance.OUT</Text>
+  </Outputs>
+  <Tests>
+    <Test ID="Test01" Score="0" Timeout="0" />
+    <Test ID="Test02" Score="0" Timeout="0" />
+    <Test ID="Test03" Score="0" Timeout="0" />
+    <Test ID="Test04" Score="0" Timeout="0" />
+    <Test ID="Test05" Score="0" Timeout="0" />
+    <Test ID="Test06" Score="0" Timeout="0" />
+    <Test ID="Test07" Score="0" Timeout="0" />
+    <Test ID="Test08" Score="0" Timeout="0" />
+    <Test ID="Test09" Score="0" Timeout="0" />
+    <Test ID="Test10" Score="0" Timeout="0" />
+    <Test ID="Test11" Score="0" Timeout="0" />
+    <Test ID="Test12" Score="0" Timeout="0" />
+    <Test ID="Test13" Score="0" Timeout="0" />
+    <Test ID="Test14" Score="0" Timeout="0" />
+    <Test ID="Test15" Score="0" Timeout="0" />
+    <Test ID="Test16" Score="0" Timeout="0" />
+    <Test ID="Test17" Score="0" Timeout="0" />
+    <Test ID="Test18" Score="0" Timeout="0" />
+    <Test ID="Test19" Score="0" Timeout="0" />
+    <Test ID="Test20" Score="0" Timeout="0" />
+    <Test ID="Test21" Score="0" Timeout="0" />
+    <Test ID="Test22" Score="0" Timeout="0" />
+    <Test ID="Test23" Score="0" Timeout="0" />
+  </Tests>
+</Exam>

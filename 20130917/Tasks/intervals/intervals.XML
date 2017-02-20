@@ -1,0 +1,17 @@
+<Exam Name="intervals" TestScore="1" TestTimeout="2" ResultComparer="WordIgnoreCase">
+  <Inputs>
+    <Text>intervals.INP</Text>
+  </Inputs>
+  <Outputs>
+    <Text>intervals.OUT</Text>
+  </Outputs>
+  <Tests>
+    <Test ID="Test00" Score="0" Timeout="0" />
+    <Test ID="Test01" Score="0" Timeout="0" />
+    <Test ID="Test02" Score="0" Timeout="0" />
+    <Test ID="Test03" Score="0" Timeout="0" />
+    <Test ID="Test04" Score="0" Timeout="0" />
+    <Test ID="Test05" Score="0" Timeout="0" />
+    <Test ID="Test06" Score="0" Timeout="0" />
+  </Tests>
+</Exam>

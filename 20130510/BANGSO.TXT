@@ -1,0 +1,10 @@
+﻿INPUT
+	Dòng 1: Ghi hai số R và C.
+	Dòng 2..R+1: Mỗi dòng ghi C số.
+	Các số là tòan bộ các số từ 1->R*C
+OUTPUT
+	Một dòng duy nhất chứa giá trị trên các ô đã đi qua.
+
+GIỚI HẠN:
+	1 <= R, C <= 5000
+

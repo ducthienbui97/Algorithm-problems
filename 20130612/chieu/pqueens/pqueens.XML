@@ -1,0 +1,36 @@
+<Exam Name="pqueens" TestScore="1" TestTimeout="2" ResultComparer="WordIgnoreCase">
+  <Inputs>
+    <Text>pqueens.INP</Text>
+  </Inputs>
+  <Outputs>
+    <Text>pqueens.OUT</Text>
+  </Outputs>
+  <Tests>
+    <Test ID="Test0" Score="0" Timeout="0" />
+    <Test ID="Test1" Score="0" Timeout="0" />
+    <Test ID="Test10" Score="0" Timeout="0" />
+    <Test ID="Test11" Score="0" Timeout="0" />
+    <Test ID="Test12" Score="0" Timeout="0" />
+    <Test ID="Test13" Score="0" Timeout="0" />
+    <Test ID="Test14" Score="0" Timeout="0" />
+    <Test ID="Test15" Score="0" Timeout="0" />
+    <Test ID="Test16" Score="0" Timeout="0" />
+    <Test ID="Test17" Score="0" Timeout="0" />
+    <Test ID="Test18" Score="0" Timeout="0" />
+    <Test ID="Test19" Score="0" Timeout="0" />
+    <Test ID="Test2" Score="0" Timeout="0" />
+    <Test ID="Test20" Score="0" Timeout="0" />
+    <Test ID="Test21" Score="0" Timeout="0" />
+    <Test ID="Test22" Score="0" Timeout="0" />
+    <Test ID="Test23" Score="0" Timeout="0" />
+    <Test ID="Test24" Score="0" Timeout="0" />
+    <Test ID="Test25" Score="0" Timeout="0" />
+    <Test ID="Test3" Score="0" Timeout="0" />
+    <Test ID="Test4" Score="0" Timeout="0" />
+    <Test ID="Test5" Score="0" Timeout="0" />
+    <Test ID="Test6" Score="0" Timeout="0" />
+    <Test ID="Test7" Score="0" Timeout="0" />
+    <Test ID="Test8" Score="0" Timeout="0" />
+    <Test ID="Test9" Score="0" Timeout="0" />
+  </Tests>
+</Exam>

@@ -1,0 +1,120 @@
+cuong
+	badgras: 6
+	chkr: File not found
+	hay4sale: 5
+	hayexp: 10
+	patheads: 9
+	Total: 30
+
+DLong
+	badgras: 6
+	chkr: 0
+	hay4sale: 11
+	hayexp: 10
+	patheads: 6
+	Total: 33
+
+Dung
+	badgras: 4
+	chkr: File not found
+	hay4sale: 10
+	hayexp: 10
+	patheads: 11
+	Total: 35
+
+Hai
+	badgras: 6
+	chkr: File not found
+	hay4sale: 8
+	hayexp: 1
+	patheads: 6
+	Total: 21
+
+Hanh
+	badgras: File not found
+	chkr: 2
+	hay4sale: 10
+	hayexp: File not found
+	patheads: 13
+	Total: 25
+
+HUNG
+	badgras: 0
+	chkr: 0
+	hay4sale: 0
+	hayexp: 10
+	patheads: 6
+	Total: 16
+
+KhanhDoNgoc
+	badgras: File not found
+	chkr: 10
+	hay4sale: 11
+	hayexp: File not found
+	patheads: 13
+	Total: 34
+
+kien
+	badgras: File not found
+	chkr: 10
+	hay4sale: 8
+	hayexp: File not found
+	patheads: 13
+	Total: 31
+
+Loc
+	badgras: 6
+	chkr: File not found
+	hay4sale: 5
+	hayexp: 10
+	patheads: 9
+	Total: 30
+
+nam
+	badgras: 4
+	chkr: File not found
+	hay4sale: 5
+	hayexp: 10
+	patheads: File not found
+	Total: 19
+
+Nghia
+	badgras: 6
+	chkr: 0
+	hay4sale: 4
+	hayexp: 10
+	patheads: 13
+	Total: 33
+
+Nguyen_Hoang_Long
+	badgras: 6
+	chkr: 0
+	hay4sale: 11
+	hayexp: 10
+	patheads: 6
+	Total: 33
+
+Son
+	badgras: 6
+	chkr: File not found
+	hay4sale: 10
+	hayexp: 10
+	patheads: 11
+	Total: 37
+
+Thien
+	badgras: 7
+	chkr: 10
+	hay4sale: 11
+	hayexp: 10
+	patheads: 13
+	Total: 51
+
+VMinh
+	badgras: 0
+	chkr: 0
+	hay4sale: 10
+	hayexp: 10
+	patheads: 6
+	Total: 26
+

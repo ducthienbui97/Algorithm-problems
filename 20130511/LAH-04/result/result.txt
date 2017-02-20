@@ -1,0 +1,84 @@
+Cuong
+	1: 0.0
+	2: 60.0
+	3: 100.0
+	Total: 160.0
+
+Dung
+	1: 100.0
+	2: 100.0
+	3: 80.0
+	Total: 280.0
+
+Hai
+	1: 75.0
+	2: 60.0
+	3: 0.0
+	Total: 135.0
+
+Hanh
+	1: 100.0
+	2: 100.0
+	3: 100.0
+	Total: 300.0
+
+HLong
+	1: 0.0
+	2: File not found
+	3: File not found
+	Total: 0.0
+
+HMinh
+	1: 0.0
+	2: 40.0
+	3: File not found
+	Total: 40.0
+
+Hung
+	1: 0.0
+	2: File not found
+	3: File not found
+	Total: 0.0
+
+Khanh
+	1: 100.0
+	2: 100.0
+	3: 100.0
+	Total: 300.0
+
+Loc
+	1: 75.0
+	2: 60.0
+	3: 0.0
+	Total: 135.0
+
+Nam
+	1: File not found
+	2: 0.0
+	3: File not found
+	Total: 0.0
+
+Nghia
+	1: 100.0
+	2: 100.0
+	3: 100.0
+	Total: 300.0
+
+Son
+	1: 0.0
+	2: 60.0
+	3: 100.0
+	Total: 160.0
+
+Thien
+	1: 100.0
+	2: 100.0
+	3: 100.0
+	Total: 300.0
+
+Tuan
+	1: File not found
+	2: 0.0
+	3: File not found
+	Total: 0.0
+

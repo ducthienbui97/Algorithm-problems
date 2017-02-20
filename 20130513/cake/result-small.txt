@@ -1,0 +1,267 @@
+Test case 1
+dung
+dung
+Test case 2
+sai: 4.29059 4.29059
+Test case 3
+sai: 293.59 293.59
+dung
+Test case 4
+sai: 516.213 516.213
+dung
+Test case 5
+sai: 66.042 66.042
+dung
+Test case 6
+dung
+dung
+Test case 7
+sai: 37.7321 37.7321
+sai: 71.2602 71.2602
+Test case 8
+sai: 21.4223 21.4223
+dung
+Test case 9
+sai: 4.77191 4.77191
+dung
+Test case 10
+dung
+dung
+Test case 11
+sai: 426.247 426.247
+sai: 720.632 720.632
+Test case 12
+dung
+dung
+Test case 13
+sai: 505.081 505.081
+sai: 686.462 686.462
+Test case 14
+sai: 41.8994 41.8994
+Test case 15
+sai: 22.9629 22.9629
+sai: 49.2227 49.2227
+Test case 16
+sai: 33.5603 33.5603
+dung
+Test case 17
+dung
+Test case 18
+sai: 22.5327 22.5327
+dung
+Test case 19
+sai: 20.1743 20.1743
+dung
+Test case 20
+sai: 6.13018 6.13019
+dung
+Test case 21
+sai: 12.5751 12.5751
+dung
+Test case 22
+dung
+Test case 23
+dung
+dung
+Test case 24
+sai: 28.8692 28.8692
+Test case 25
+sai: 32.2898 32.2898
+sai: 76.7046 76.7046
+Test case 26
+dung
+sai: 69.7769 69.7769
+Test case 27
+sai: 326.678 326.678
+sai: 672.405 672.405
+Test case 28
+dung
+dung
+Test case 29
+sai: 374.647 374.647
+dung
+Test case 30
+sai: 27.528 27.528
+dung
+Test case 31
+sai: 35.1867 35.1867
+Test case 32
+dung
+Test case 33
+dung
+Test case 34
+sai: 232.327 232.327
+sai: 664.025 664.025
+Test case 35
+sai: 35.708 35.708
+dung
+Test case 36
+dung
+sai: 528.365 528.365
+Test case 37
+dung
+sai: 569.038 569.038
+Test case 38
+dung
+sai: 68.1529 68.1529
+Test case 39
+sai: 385.001 385.001
+sai: 703.107 703.107
+Test case 40
+dung
+Test case 41
+sai: 30.1736 30.1736
+sai: 54.2575 54.2575
+Test case 42
+sai: 36.5251 36.5251
+Test case 43
+dung
+dung
+Test case 44
+dung
+Test case 45
+dung
+sai: 52.6667 52.6667
+Test case 46
+sai: 4.16785 4.16785
+sai: 21.1726 21.1726
+Test case 47
+dung
+dung
+Test case 48
+sai: 18.2444 18.2444
+sai: 43.3395 43.3395
+Test case 49
+sai: 33.1435 33.1435
+sai: 59.4062 59.4062
+Test case 50
+sai: 22.6756 22.6756
+Test case 51
+sai: 26.6112 26.6112
+Test case 52
+dung
+sai: 15.6539 15.6539
+Test case 53
+sai: 21.5372 21.5372
+sai: 42.7248 42.7248
+Test case 54
+dung
+sai: 786.957 786.957
+Test case 55
+dung
+Test case 56
+dung
+dung
+Test case 57
+dung
+dung
+Test case 58
+dung
+dung
+Test case 59
+sai: 21.6145 21.6145
+sai: 34.627 34.627
+Test case 60
+dung
+sai: 39.4863 39.4863
+Test case 61
+sai: 16.8342 16.8342
+Test case 62
+dung
+dung
+Test case 63
+dung
+Test case 64
+dung
+sai: 628.8 628.8
+Test case 65
+dung
+dung
+Test case 66
+dung
+Test case 67
+dung
+sai: 48.2465 48.2466
+Test case 68
+dung
+Test case 69
+dung
+sai: 64.4175 64.4175
+Test case 70
+dung
+Test case 71
+dung
+dung
+Test case 72
+sai: 56.9927 56.9927
+Test case 73
+sai: 35.367 35.367
+dung
+Test case 74
+sai: 359.828 359.828
+dung
+Test case 75
+dung
+Test case 76
+dung
+Test case 77
+sai: 51.9999 51.9999
+dung
+Test case 78
+sai: 33.2222 33.2222
+sai: 62.1497 62.1497
+Test case 79
+dung
+dung
+Test case 80
+sai: 58.068 58.068
+Test case 81
+sai: 23.077 23.077
+Test case 82
+dung
+Test case 83
+dung
+Test case 84
+sai: 34.6844 34.6844
+Test case 85
+dung
+Test case 86
+sai: 34.0326 34.0326
+Test case 87
+dung
+dung
+Test case 88
+dung
+sai: 478.69 478.69
+Test case 89
+dung
+sai: 70.0652 70.0652
+Test case 90
+dung
+Test case 91
+sai: 16.1381 16.1381
+sai: 56.5374 56.5374
+Test case 92
+sai: 408.343 408.343
+dung
+Test case 93
+sai: 34.8519 34.8519
+Test case 94
+dung
+sai: 21.1011 21.1011
+Test case 95
+dung
+dung
+Test case 96
+sai: 37.0634 37.0634
+Test case 97
+sai: 50.6358 50.6358
+sai: 92.5551 92.5551
+Test case 98
+dung
+Test case 99
+sai: 259.649 259.649
+sai: 672.424 672.424
+Test case 100
+sai: 133.222 133.222
+sai: 505.784 505.784

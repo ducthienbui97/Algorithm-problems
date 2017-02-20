@@ -1,0 +1,12 @@
+problem.type='run'
+problem.runs=10
+problem.max_time=0.5
+compiler.python.time_multiplier=20
+problem.sample='mining.cpp'
+problem.score.sample=10
+problem.score.real=100
+problem.name='Mining'
+problem.author='Graham Manuell'
+problem.owner='gmanuell'
+problem.stdin
+problem.stdout

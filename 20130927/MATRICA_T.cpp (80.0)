@@ -1,0 +1,62 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define elif else if
+const int Maxn = 30033;
+int cnt[333];
+int n;
+vector<int> d;
+int k;
+char S[11];
+int C[3003][3003];
+main() {
+    ios_base::sync_with_stdio(false);
+    cin>>n>>k;
+    int c;
+    while(k--) {
+        cin>>S;
+        cin>>cnt[S[0]];
+        if(cnt[S[0]]&1) {
+            d.push_back(S[0]);
+            cnt[S[0]]--;
+            }
+        }
+
+    if(d.size()>n||((n-d.size())&1)) {
+        puts("IMPOSSIBLE");
+        return 0;
+        }
+    sort(d.begin(),d.end());
+    reverse(d.begin(),d.end());
+    int dm='A';
+    for(int i=1;i<=n;i++)
+    for(int j=1;j<=n;j++)if(!C[i][j]){
+        while(!cnt[dm]) dm++;
+        if(i==j){
+            if(d.size()>0&&(i+d.size()>=n||dm>=d.back())) C[i][j]=d.back(),d.pop_back();
+            else{
+                C[i][j]=dm;
+                d.push_back(dm);
+                cnt[dm]-=2;
+            }
+        }
+        else{
+            C[i][j]=C[j][i]=dm;
+            cnt[dm]-=2;
+        }
+    }
+    d.clear();
+    int p;
+    cin>>p;
+    for(int i=0;i<p;i++){
+        cin>>c;
+        d.push_back(c);
+    }
+        sort(d.begin(),d.end());
+
+    for(int i=1;i<=n;i++){
+        for(int j=0;j<d.size();j++){
+            putchar(C[i][d[j]]);
+        }
+        putchar('\n');
+    }
+}

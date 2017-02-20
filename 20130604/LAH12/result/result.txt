@@ -1,0 +1,77 @@
+cuong
+	barrel: 0.0
+	grey: 90.0
+	raft: 0.0
+	Total: 90.0
+
+DLong
+	barrel: 42.8571428571
+	grey: 100.0
+	raft: 72.2222222222
+	Total: 215.079365079
+
+Dung
+	barrel: File not found
+	grey: 100.0
+	raft: 100.0
+	Total: 200.0
+
+Hung
+	barrel: 0.0
+	grey: 100.0
+	raft: File not found
+	Total: 100.0
+
+HYQ
+	barrel: 35.7142857143
+	grey: 100.0
+	raft: 100.0
+	Total: 235.714285714
+
+Khanh
+	barrel: 0.0
+	grey: 100.0
+	raft: 100.0
+	Total: 200.0
+
+kien
+	barrel: 35.7142857143
+	grey: 100.0
+	raft: 22.2222222222
+	Total: 157.936507936
+
+loc
+	barrel: 7.14285714286
+	grey: 0.0
+	raft: 0.0
+	Total: 7.14285714286
+
+nghia
+	barrel: 42.8571428571
+	grey: 90.0
+	raft: 100.0
+	Total: 232.857142857
+
+tson
+	barrel: 0.0
+	grey: 100.0
+	raft: File not found
+	Total: 100.0
+
+tuan
+	barrel: File not found
+	grey: 90.0
+	raft: File not found
+	Total: 90.0
+
+VuHoangMinh
+	barrel: 0.0
+	grey: 100.0
+	raft: File not found
+	Total: 100.0
+
+Hanh
+	barrel: 35.7142857143
+	grey: 90.0
+	raft: 100.0
+	Total: 225.714285714

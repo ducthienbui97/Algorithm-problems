@@ -1,0 +1,963 @@
+cuong
+	catchcow
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Point: 100.0
+
+	cheappal
+		Point: File not found
+
+	fliptile
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Correct
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Time limit exceeded
+		Test 10: Time limit exceeded
+		Test 11: Time limit exceeded
+		Test 12: Time limit exceeded
+		Point: 7.69230769231
+
+	horizon
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Runtime error
+		Test 6: Runtime error
+		Test 7: Runtime error
+		Test 8: Runtime error
+		Test 9: Runtime error
+		Point: 0.0
+
+	permutation
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Point: 0.0
+
+	Total: 107.692307692
+
+DLong
+	catchcow
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Point: 100.0
+
+	cheappal
+		Test 0: Correct
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Point: 10.0
+
+	fliptile
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Point: 100.0
+
+	horizon
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Time limit exceeded
+		Test 5: Time limit exceeded
+		Test 6: Time limit exceeded
+		Test 7: Time limit exceeded
+		Test 8: Time limit exceeded
+		Test 9: Time limit exceeded
+		Point: 40.0
+
+	permutation
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 100.0
+
+	Total: 350.0
+
+Dung
+	catchcow
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Point: 100.0
+
+	cheappal
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Runtime error
+		Test 3: Runtime error
+		Test 4: Runtime error
+		Test 5: Runtime error
+		Test 6: Runtime error
+		Test 7: Runtime error
+		Test 8: Runtime error
+		Test 9: Runtime error
+		Point: 20.0
+
+	fliptile
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Correct
+		Test 5: Wrong answer
+		Test 6: Correct
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Test 10: Wrong answer
+		Test 11: Wrong answer
+		Test 12: Wrong answer
+		Point: 15.3846153846
+
+	horizon
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Time limit exceeded
+		Test 5: Time limit exceeded
+		Test 6: Time limit exceeded
+		Test 7: Time limit exceeded
+		Test 8: Time limit exceeded
+		Test 9: Time limit exceeded
+		Point: 40.0
+
+	permutation
+		Test 0: Runtime error
+		Test 1: Runtime error
+		Test 2: Runtime error
+		Test 3: Runtime error
+		Test 4: Runtime error
+		Test 5: Runtime error
+		Test 6: Runtime error
+		Test 7: Runtime error
+		Test 8: Runtime error
+		Test 9: Runtime error
+		Point: 0.0
+
+	Total: 175.384615385
+
+hanhpv
+	catchcow
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Point: 100.0
+
+	cheappal
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 100.0
+
+	fliptile
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Wrong answer
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Wrong answer
+		Point: 84.6153846154
+
+	horizon
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Time limit exceeded
+		Test 9: Time limit exceeded
+		Point: 80.0
+
+	permutation
+		Point: File not found
+
+	Total: 364.615384615
+
+hieu
+	catchcow
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Wrong answer
+		Test 5: Correct
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Correct
+		Test 10: Wrong answer
+		Test 11: Wrong answer
+		Test 12: Correct
+		Point: 53.8461538462
+
+	cheappal
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Point: 0.0
+
+	fliptile
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Correct
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Test 10: Wrong answer
+		Test 11: Wrong answer
+		Test 12: Wrong answer
+		Point: 7.69230769231
+
+	horizon
+		Point: File not found
+
+	permutation
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 100.0
+
+	Total: 161.538461539
+
+HLong
+	catchcow
+		Point: File not found
+
+	cheappal
+		Point: File not found
+
+	fliptile
+		Point: File not found
+
+	horizon
+		Point: File not found
+
+	permutation
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 100.0
+
+	Total: 100.0
+
+Hung
+	catchcow
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Wrong answer
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Test 10: Correct
+		Test 11: Wrong answer
+		Test 12: Correct
+		Point: 69.2307692308
+
+	cheappal
+		Point: Compile error
+
+	fliptile
+		Point: File not found
+
+	horizon
+		Point: File not found
+
+	permutation
+		Point: File not found
+
+	Total: 69.2307692308
+
+KhanhDoNgoc
+	catchcow
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Point: 100.0
+
+	cheappal
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 100.0
+
+	fliptile
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Point: 100.0
+
+	horizon
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 100.0
+
+	permutation
+		Point: File not found
+
+	Total: 400.0
+
+kien
+	catchcow
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Point: 100.0
+
+	cheappal
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 100.0
+
+	fliptile
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Point: 100.0
+
+	horizon
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 100.0
+
+	permutation
+		Point: File not found
+
+	Total: 400.0
+
+loc
+	catchcow
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Point: 100.0
+
+	cheappal
+		Point: File not found
+
+	fliptile
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Wrong answer
+		Test 3: Correct
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Wrong answer
+		Point: 38.4615384615
+
+	horizon
+		Point: File not found
+
+	permutation
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 100.0
+
+	Total: 238.461538461
+
+nghia
+	catchcow
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Point: 100.0
+
+	cheappal
+		Point: File not found
+
+	fliptile
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Correct
+		Test 5: Wrong answer
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Wrong answer
+		Point: 53.8461538462
+
+	horizon
+		Point: File not found
+
+	permutation
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 100.0
+
+	Total: 253.846153846
+
+Thien
+	catchcow
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Point: 100.0
+
+	cheappal
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 100.0
+
+	fliptile
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Wrong answer
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Point: 92.3076923077
+
+	horizon
+		Test 0: Correct
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Time limit exceeded
+		Test 6: Time limit exceeded
+		Test 7: Time limit exceeded
+		Test 8: Time limit exceeded
+		Test 9: Time limit exceeded
+		Point: 10.0
+
+	permutation
+		Point: File not found
+
+	Total: 302.307692308
+
+Tson
+	catchcow
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Point: 100.0
+
+	cheappal
+		Test 0: Correct
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Point: 10.0
+
+	fliptile
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Point: 100.0
+
+	horizon
+		Point: File not found
+
+	permutation
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 100.0
+
+	Total: 310.0
+
+Tuan
+	catchcow
+		Test 0: Wrong answer
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Correct
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Test 10: Wrong answer
+		Test 11: Wrong answer
+		Test 12: Correct
+		Point: 38.4615384615
+
+	cheappal
+		Point: File not found
+
+	fliptile
+		Point: File not found
+
+	horizon
+		Point: File not found
+
+	permutation
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Point: 0.0
+
+	Total: 38.4615384615
+
+TuanMinh
+	catchcow
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Runtime error
+		Test 9: Runtime error
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Point: 84.6153846154
+
+	cheappal
+		Point: File not found
+
+	fliptile
+		Point: File not found
+
+	horizon
+		Point: File not found
+
+	permutation
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 100.0
+
+	Total: 184.615384615
+
+VHung
+	catchcow
+		Test 0: Correct
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Correct
+		Test 8: Wrong answer
+		Test 9: Correct
+		Test 10: Wrong answer
+		Test 11: Wrong answer
+		Test 12: Wrong answer
+		Point: 23.0769230769
+
+	cheappal
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Point: 0.0
+
+	fliptile
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Test 10: Wrong answer
+		Test 11: Wrong answer
+		Test 12: Wrong answer
+		Point: 0.0
+
+	horizon
+		Point: File not found
+
+	permutation
+		Point: File not found
+
+	Total: 23.0769230769
+
+VuHoangMinh
+	catchcow
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Point: 100.0
+
+	cheappal
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Time limit exceeded
+		Point: 0.0
+
+	fliptile
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Correct
+		Test 5: Wrong answer
+		Test 6: Correct
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Test 10: Wrong answer
+		Test 11: Wrong answer
+		Test 12: Wrong answer
+		Point: 15.3846153846
+
+	horizon
+		Point: File not found
+
+	permutation
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 100.0
+
+	Total: 215.384615385
+

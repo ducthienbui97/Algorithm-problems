@@ -1,0 +1,911 @@
+cuong
+	badgras
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Runtime error
+		Point: 6
+
+	chkr
+		Point: File not found
+
+	hay4sale
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Time limit exceeded
+		Test 6: Time limit exceeded
+		Test 7: Time limit exceeded
+		Test 8: Time limit exceeded
+		Test 9: Time limit exceeded
+		Test 10: Time limit exceeded
+		Point: 5
+
+	hayexp
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 10
+
+	patheads
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Wrong answer
+		Test 8: Correct
+		Test 9: Time limit exceeded
+		Test 10: Time limit exceeded
+		Test 11: Correct
+		Test 12: Wrong answer
+		Point: 9
+
+	Total: 30
+
+DLong
+	badgras
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Runtime error
+		Point: 6
+
+	chkr
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Point: 0
+
+	hay4sale
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Point: 11
+
+	hayexp
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 10
+
+	patheads
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Time limit exceeded
+		Test 7: Time limit exceeded
+		Test 8: Time limit exceeded
+		Test 9: Time limit exceeded
+		Test 10: Time limit exceeded
+		Test 11: Time limit exceeded
+		Test 12: Time limit exceeded
+		Point: 6
+
+	Total: 33
+
+Dung
+	badgras
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Time limit exceeded
+		Test 5: Time limit exceeded
+		Test 6: Time limit exceeded
+		Point: 4
+
+	chkr
+		Point: File not found
+
+	hay4sale
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Time limit exceeded
+		Point: 10
+
+	hayexp
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 10
+
+	patheads
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Time limit exceeded
+		Test 10: Time limit exceeded
+		Test 11: Correct
+		Test 12: Correct
+		Point: 11
+
+	Total: 35
+
+Hai
+	badgras
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Runtime error
+		Point: 6
+
+	chkr
+		Point: File not found
+
+	hay4sale
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Wrong answer
+		Test 3: Correct
+		Test 4: Wrong answer
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Wrong answer
+		Test 10: Correct
+		Point: 8
+
+	hayexp
+		Test 0: Correct
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Point: 1
+
+	patheads
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Time limit exceeded
+		Test 7: Time limit exceeded
+		Test 8: Time limit exceeded
+		Test 9: Time limit exceeded
+		Test 10: Time limit exceeded
+		Test 11: Time limit exceeded
+		Test 12: Time limit exceeded
+		Point: 6
+
+	Total: 21
+
+Hanh
+	badgras
+		Point: File not found
+
+	chkr
+		Test 0: Time limit exceeded
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Time limit exceeded
+		Test 4: Time limit exceeded
+		Test 5: Time limit exceeded
+		Test 6: Time limit exceeded
+		Test 7: Time limit exceeded
+		Test 8: Time limit exceeded
+		Test 9: Time limit exceeded
+		Point: 2
+
+	hay4sale
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Time limit exceeded
+		Point: 10
+
+	hayexp
+		Point: File not found
+
+	patheads
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Point: 13
+
+	Total: 25
+
+HUNG
+	badgras
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Time limit exceeded
+		Point: 0
+
+	chkr
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Point: 0
+
+	hay4sale
+		Test 0: Runtime error
+		Test 1: Runtime error
+		Test 2: Runtime error
+		Test 3: Runtime error
+		Test 4: Runtime error
+		Test 5: Runtime error
+		Test 6: Runtime error
+		Test 7: Runtime error
+		Test 8: Runtime error
+		Test 9: Runtime error
+		Test 10: Runtime error
+		Point: 0
+
+	hayexp
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 10
+
+	patheads
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Time limit exceeded
+		Test 7: Time limit exceeded
+		Test 8: Time limit exceeded
+		Test 9: Time limit exceeded
+		Test 10: Time limit exceeded
+		Test 11: Time limit exceeded
+		Test 12: Time limit exceeded
+		Point: 6
+
+	Total: 16
+
+KhanhDoNgoc
+	badgras
+		Point: File not found
+
+	chkr
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 10
+
+	hay4sale
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Point: 11
+
+	hayexp
+		Point: File not found
+
+	patheads
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Point: 13
+
+	Total: 34
+
+kien
+	badgras
+		Point: File not found
+
+	chkr
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 10
+
+	hay4sale
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Time limit exceeded
+		Test 9: Time limit exceeded
+		Test 10: Time limit exceeded
+		Point: 8
+
+	hayexp
+		Point: File not found
+
+	patheads
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Point: 13
+
+	Total: 31
+
+Loc
+	badgras
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Runtime error
+		Point: 6
+
+	chkr
+		Point: File not found
+
+	hay4sale
+		Test 0: Correct
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Correct
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Point: 5
+
+	hayexp
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 10
+
+	patheads
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Time limit exceeded
+		Test 7: Time limit exceeded
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Time limit exceeded
+		Test 12: Time limit exceeded
+		Point: 9
+
+	Total: 30
+
+nam
+	badgras
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Wrong answer
+		Test 4: Correct
+		Test 5: Wrong answer
+		Test 6: Runtime error
+		Point: 4
+
+	chkr
+		Point: File not found
+
+	hay4sale
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Time limit exceeded
+		Test 6: Time limit exceeded
+		Test 7: Time limit exceeded
+		Test 8: Time limit exceeded
+		Test 9: Time limit exceeded
+		Test 10: Time limit exceeded
+		Point: 5
+
+	hayexp
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 10
+
+	patheads
+		Point: File not found
+
+	Total: 19
+
+Nghia
+	badgras
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Runtime error
+		Point: 6
+
+	chkr
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Runtime error
+		Test 7: Runtime error
+		Test 8: Runtime error
+		Test 9: Wrong answer
+		Point: 0
+
+	hay4sale
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Wrong answer
+		Test 3: Correct
+		Test 4: Wrong answer
+		Test 5: Correct
+		Test 6: Wrong answer
+		Test 7: Runtime error
+		Test 8: Runtime error
+		Test 9: Runtime error
+		Test 10: Runtime error
+		Point: 4
+
+	hayexp
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 10
+
+	patheads
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Point: 13
+
+	Total: 33
+
+Nguyen_Hoang_Long
+	badgras
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Runtime error
+		Point: 6
+
+	chkr
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Point: 0
+
+	hay4sale
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Point: 11
+
+	hayexp
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 10
+
+	patheads
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Time limit exceeded
+		Test 7: Time limit exceeded
+		Test 8: Time limit exceeded
+		Test 9: Time limit exceeded
+		Test 10: Time limit exceeded
+		Test 11: Time limit exceeded
+		Test 12: Time limit exceeded
+		Point: 6
+
+	Total: 33
+
+Son
+	badgras
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Runtime error
+		Point: 6
+
+	chkr
+		Point: File not found
+
+	hay4sale
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Time limit exceeded
+		Point: 10
+
+	hayexp
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 10
+
+	patheads
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Time limit exceeded
+		Test 10: Time limit exceeded
+		Test 11: Correct
+		Test 12: Correct
+		Point: 11
+
+	Total: 37
+
+Thien
+	badgras
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Point: 7
+
+	chkr
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 10
+
+	hay4sale
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Point: 11
+
+	hayexp
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 10
+
+	patheads
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Point: 13
+
+	Total: 51
+
+VMinh
+	badgras
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Point: 0
+
+	chkr
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Point: 0
+
+	hay4sale
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Time limit exceeded
+		Point: 10
+
+	hayexp
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 10
+
+	patheads
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Time limit exceeded
+		Test 7: Time limit exceeded
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Test 10: Wrong answer
+		Test 11: Wrong answer
+		Test 12: Wrong answer
+		Point: 6
+
+	Total: 26
+

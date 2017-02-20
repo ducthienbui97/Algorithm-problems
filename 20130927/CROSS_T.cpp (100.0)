@@ -1,0 +1,61 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define elif else if
+bool C[10][10],H[10][10],O[10][10][10];
+char c[10];
+int used[10][10];
+int check() {
+    int done=0;
+    for(int cnt=1; cnt<10; cnt++)
+        for(int i=0; i<3; i++)
+            for(int j=0; j<3; j++)
+                if(!O[i][j][cnt]) {
+                    int d=0;
+                    int x1,y1;
+                    for(int k=3*i; k<3*(i+1); k++)
+                        for(int l=3*j; l<3*(j+1); l++)
+                            if(!used[k][l]&&!C[l][cnt]&&!H[k][cnt]) {
+                                d++;
+                                x1=k;
+                                y1=l;
+                                }
+                    if(!d)
+                        return -1;
+                    if(d==1) {
+                        done=1;
+                        used[x1][y1]=cnt;
+                        H[x1][cnt]=C[y1][cnt]=O[i][j][cnt]=true;
+                        }
+                    }
+    return done;
+    }
+main() {
+    ios_base::sync_with_stdio(false);
+    for(int i=0; i<9; i++) {
+        cin>>c;
+        for(int j=0; j<9; j++)if(c[j]!='.') {
+                int t=c[j]-'0';
+                if(C[j][t]||H[i][t]||O[i/3][j/3][t]) {
+                    puts("ERROR");
+                    return 0;
+                    }
+                C[j][t]=H[i][t]=O[i/3][j/3][t]=true;
+                used[i][j]=t;
+                }
+        }
+    int done=0;
+    do {
+        done=check();
+        if(done<0) {
+            puts("ERROR");
+            return 0;
+            }
+    }while(done>0);
+    for(int i=0; i<9; i++) {
+        for(int j=0; j<9; j++)
+            if(!used[i][j]) putchar('.');
+            else putchar(used[i][j]+'0');
+        putchar('\n');
+        }
+    }
+

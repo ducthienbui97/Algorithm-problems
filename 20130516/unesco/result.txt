@@ -1,0 +1,19 @@
+Program: thinh
+
+Test 1:
+tests\1.INP
+tests\1.OUT
+Program runed in: 2652 ms
+There is no your output file
+NOT OK
+
+Test 2:
+tests\2.INP
+tests\2.OUT
+Program runed in: 702 ms
+There is no your output file
+NOT OK
+
+Test 3:
+tests\3.INP
+tests\3.OUT

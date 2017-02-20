@@ -1,0 +1,321 @@
+Cuong
+	1
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Point: 0.0
+
+	2
+		Test 0: Correct
+		Test 1: Time limit exceeded
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Time limit exceeded
+		Point: 60.0
+
+	3
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Point: 100.0
+
+	Total: 160.0
+
+Dung
+	1
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Point: 100.0
+
+	2
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Point: 100.0
+
+	3
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Time limit exceeded
+		Point: 80.0
+
+	Total: 280.0
+
+Hai
+	1
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Wrong answer
+		Point: 75.0
+
+	2
+		Test 0: Correct
+		Test 1: Time limit exceeded
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Time limit exceeded
+		Point: 60.0
+
+	3
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Point: 0.0
+
+	Total: 135.0
+
+Hanh
+	1
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Point: 100.0
+
+	2
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Point: 100.0
+
+	3
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Point: 100.0
+
+	Total: 300.0
+
+HLong
+	1
+		Test 0: Time limit exceeded
+		Test 1: Time limit exceeded
+		Test 2: Time limit exceeded
+		Test 3: Time limit exceeded
+		Point: 0.0
+
+	2
+		Point: File not found
+
+	3
+		Point: File not found
+
+	Total: 0.0
+
+HMinh
+	1
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Point: 0.0
+
+	2
+		Test 0: Correct
+		Test 1: Time limit exceeded
+		Test 2: Correct
+		Test 3: Wrong answer
+		Test 4: Time limit exceeded
+		Point: 40.0
+
+	3
+		Point: File not found
+
+	Total: 40.0
+
+Hung
+	1
+		Test 0: Time limit exceeded
+		Test 1: Runtime error
+		Test 2: Runtime error
+		Test 3: Runtime error
+		Point: 0.0
+
+	2
+		Point: File not found
+
+	3
+		Point: File not found
+
+	Total: 0.0
+
+Khanh
+	1
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Point: 100.0
+
+	2
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Point: 100.0
+
+	3
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Point: 100.0
+
+	Total: 300.0
+
+Loc
+	1
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Runtime error
+		Point: 75.0
+
+	2
+		Test 0: Correct
+		Test 1: Time limit exceeded
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Time limit exceeded
+		Point: 60.0
+
+	3
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Runtime error
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Point: 0.0
+
+	Total: 135.0
+
+Nam
+	1
+		Point: File not found
+
+	2
+		Test 0: Time limit exceeded
+		Test 1: Time limit exceeded
+		Test 2: Time limit exceeded
+		Test 3: Time limit exceeded
+		Test 4: Time limit exceeded
+		Point: 0.0
+
+	3
+		Point: File not found
+
+	Total: 0.0
+
+Nghia
+	1
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Point: 100.0
+
+	2
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Point: 100.0
+
+	3
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Point: 100.0
+
+	Total: 300.0
+
+Son
+	1
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Point: 0.0
+
+	2
+		Test 0: Correct
+		Test 1: Time limit exceeded
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Time limit exceeded
+		Point: 60.0
+
+	3
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Point: 100.0
+
+	Total: 160.0
+
+Thien
+	1
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Point: 100.0
+
+	2
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Point: 100.0
+
+	3
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Point: 100.0
+
+	Total: 300.0
+
+Tuan
+	1
+		Point: File not found
+
+	2
+		Test 0: Time limit exceeded
+		Test 1: Time limit exceeded
+		Test 2: Time limit exceeded
+		Test 3: Time limit exceeded
+		Test 4: Time limit exceeded
+		Point: 0.0
+
+	3
+		Point: File not found
+
+	Total: 0.0
+

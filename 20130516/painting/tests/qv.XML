@@ -1,0 +1,17 @@
+<Exam Name="qv" TestScore="1" TestTimeout="1" ResultComparer="WordIgnoreCase">
+  <Inputs>
+    <Text>qv.INP</Text>
+  </Inputs>
+  <Outputs>
+    <Text>qv.OUT</Text>
+  </Outputs>
+  <Tests>
+    <Test ID="test01" Score="0" Timeout="0" />
+    <Test ID="test02" Score="0" Timeout="0" />
+    <Test ID="test03" Score="0" Timeout="0" />
+    <Test ID="test04" Score="0" Timeout="0" />
+    <Test ID="test05" Score="0" Timeout="0" />
+    <Test ID="test06" Score="0" Timeout="0" />
+    <Test ID="test07" Score="0" Timeout="0" />
+  </Tests>
+</Exam>

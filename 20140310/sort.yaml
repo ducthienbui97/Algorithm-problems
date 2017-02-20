@@ -1,0 +1,7 @@
+nome_breve: "sort"
+nome: "sort"
+timeout: 1
+memlimit: 256
+n_input: 20
+infile: ""
+outfile: ""

@@ -1,0 +1,60 @@
+<Exam Name="dagmst" TestScore="2" TestTimeout="2" ResultComparer="WordIgnoreCase">
+  <Inputs>
+    <Text>dagmst.INP</Text>
+  </Inputs>
+  <Outputs>
+    <Text>dagmst.OUT</Text>
+  </Outputs>
+  <Tests>
+    <Test ID="Test00" Score="0" Timeout="0" />
+    <Test ID="Test01" Score="0" Timeout="0" />
+    <Test ID="Test02" Score="0" Timeout="0" />
+    <Test ID="Test03" Score="0" Timeout="0" />
+    <Test ID="Test04" Score="0" Timeout="0" />
+    <Test ID="Test05" Score="0" Timeout="0" />
+    <Test ID="Test06" Score="0" Timeout="0" />
+    <Test ID="Test07" Score="0" Timeout="0" />
+    <Test ID="Test08" Score="0" Timeout="0" />
+    <Test ID="Test09" Score="0" Timeout="0" />
+    <Test ID="Test10" Score="0" Timeout="0" />
+    <Test ID="Test11" Score="0" Timeout="0" />
+    <Test ID="Test12" Score="0" Timeout="0" />
+    <Test ID="Test13" Score="0" Timeout="0" />
+    <Test ID="Test14" Score="0" Timeout="0" />
+    <Test ID="Test15" Score="0" Timeout="0" />
+    <Test ID="Test16" Score="0" Timeout="0" />
+    <Test ID="Test17" Score="0" Timeout="0" />
+    <Test ID="Test18" Score="0" Timeout="0" />
+    <Test ID="Test19" Score="0" Timeout="0" />
+    <Test ID="Test20" Score="0" Timeout="0" />
+    <Test ID="Test21" Score="0" Timeout="0" />
+    <Test ID="Test22" Score="0" Timeout="0" />
+    <Test ID="Test23" Score="0" Timeout="0" />
+    <Test ID="Test24" Score="0" Timeout="0" />
+    <Test ID="Test25" Score="0" Timeout="0" />
+    <Test ID="Test26" Score="0" Timeout="0" />
+    <Test ID="Test27" Score="0" Timeout="0" />
+    <Test ID="Test28" Score="0" Timeout="0" />
+    <Test ID="Test29" Score="0" Timeout="0" />
+    <Test ID="Test30" Score="0" Timeout="0" />
+    <Test ID="Test31" Score="0" Timeout="0" />
+    <Test ID="Test32" Score="0" Timeout="0" />
+    <Test ID="Test33" Score="0" Timeout="0" />
+    <Test ID="Test34" Score="0" Timeout="0" />
+    <Test ID="Test35" Score="0" Timeout="0" />
+    <Test ID="Test36" Score="0" Timeout="0" />
+    <Test ID="Test37" Score="0" Timeout="0" />
+    <Test ID="Test38" Score="0" Timeout="0" />
+    <Test ID="Test39" Score="0" Timeout="0" />
+    <Test ID="Test40" Score="0" Timeout="0" />
+    <Test ID="Test41" Score="0" Timeout="0" />
+    <Test ID="Test42" Score="0" Timeout="0" />
+    <Test ID="Test43" Score="0" Timeout="0" />
+    <Test ID="Test44" Score="0" Timeout="0" />
+    <Test ID="Test45" Score="0" Timeout="0" />
+    <Test ID="Test46" Score="0" Timeout="0" />
+    <Test ID="Test47" Score="0" Timeout="0" />
+    <Test ID="Test48" Score="0" Timeout="0" />
+    <Test ID="Test49" Score="0" Timeout="0" />
+  </Tests>
+</Exam>

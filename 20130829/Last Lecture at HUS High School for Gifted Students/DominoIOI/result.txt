@@ -1,0 +1,13 @@
+Program: _dominoIOI
+
+Test 1:
+tests\dom12.in
+Program runed in: 125 ms
+OK
+
+You passed 1 / 1 testcases
+Slowest testcase: 125 ms
+Fastest testcase: 125 ms
+Your point is: 100.00 / 100
+
+ACCEPTED

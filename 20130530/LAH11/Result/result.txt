@@ -1,0 +1,136 @@
+cuong
+	catchcow: 100.0
+	cheappal: File not found
+	fliptile: 7.69230769231
+	horizon: 0.0
+	permutation: 0.0
+	Total: 107.692307692
+
+DLong
+	catchcow: 100.0
+	cheappal: 10.0
+	fliptile: 100.0
+	horizon: 40.0
+	permutation: 100.0
+	Total: 350.0
+
+Dung
+	catchcow: 100.0
+	cheappal: 20.0
+	fliptile: 15.3846153846
+	horizon: 40.0
+	permutation: 0.0
+	Total: 175.384615385
+
+hanhpv
+	catchcow: 100.0
+	cheappal: 100.0
+	fliptile: 84.6153846154
+	horizon: 80.0
+	permutation: File not found
+	Total: 364.615384615
+
+hieu
+	catchcow: 53.8461538462
+	cheappal: 0.0
+	fliptile: 7.69230769231
+	horizon: File not found
+	permutation: 100.0
+	Total: 161.538461539
+
+HLong
+	catchcow: File not found
+	cheappal: File not found
+	fliptile: File not found
+	horizon: File not found
+	permutation: 100.0
+	Total: 100.0
+
+Hung
+	catchcow: 69.2307692308
+	cheappal: Compile error
+	fliptile: File not found
+	horizon: File not found
+	permutation: File not found
+	Total: 69.2307692308
+
+KhanhDoNgoc
+	catchcow: 100.0
+	cheappal: 100.0
+	fliptile: 100.0
+	horizon: 100.0
+	permutation: File not found
+	Total: 400.0
+
+kien
+	catchcow: 100.0
+	cheappal: 100.0
+	fliptile: 100.0
+	horizon: 100.0
+	permutation: File not found
+	Total: 400.0
+
+loc
+	catchcow: 100.0
+	cheappal: File not found
+	fliptile: 38.4615384615
+	horizon: File not found
+	permutation: 100.0
+	Total: 238.461538461
+
+nghia
+	catchcow: 100.0
+	cheappal: File not found
+	fliptile: 53.8461538462
+	horizon: File not found
+	permutation: 100.0
+	Total: 253.846153846
+
+Thien
+	catchcow: 100.0
+	cheappal: 100.0
+	fliptile: 92.3076923077
+	horizon: 10.0
+	permutation: File not found
+	Total: 302.307692308
+
+Tson
+	catchcow: 100.0
+	cheappal: 10.0
+	fliptile: 100.0
+	horizon: File not found
+	permutation: 100.0
+	Total: 310.0
+
+Tuan
+	catchcow: 38.4615384615
+	cheappal: File not found
+	fliptile: File not found
+	horizon: File not found
+	permutation: 0.0
+	Total: 38.4615384615
+
+TuanMinh
+	catchcow: 84.6153846154
+	cheappal: File not found
+	fliptile: File not found
+	horizon: File not found
+	permutation: 100.0
+	Total: 184.615384615
+
+VHung
+	catchcow: 23.0769230769
+	cheappal: 0.0
+	fliptile: 0.0
+	horizon: File not found
+	permutation: File not found
+	Total: 23.0769230769
+
+VuHoangMinh
+	catchcow: 100.0
+	cheappal: 0.0
+	fliptile: 15.3846153846
+	horizon: File not found
+	permutation: 100.0
+	Total: 215.384615385
+

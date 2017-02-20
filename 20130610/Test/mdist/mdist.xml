@@ -1,0 +1,28 @@
+<Exam Name="mdist" TestScore="5" TestTimeout="1" ResultComparer="WordIgnoreCase">
+  <Inputs>
+    <Text>mdist.INP</Text>
+  </Inputs>
+  <Outputs>
+    <Text>mdist.OUT</Text>
+  </Outputs>
+  <Tests>
+    <Test ID="t01" Score="0" Timeout="0" />
+    <Test ID="t02" Score="0" Timeout="0" />
+    <Test ID="t03" Score="0" Timeout="0" />
+    <Test ID="t04" Score="0" Timeout="0" />
+    <Test ID="t05" Score="0" Timeout="0" />
+    <Test ID="t06" Score="0" Timeout="0" />
+    <Test ID="t07" Score="0" Timeout="0" />
+    <Test ID="t08" Score="0" Timeout="0" />
+    <Test ID="t09" Score="0" Timeout="0" />
+    <Test ID="t10" Score="0" Timeout="0" />
+    <Test ID="t11" Score="0" Timeout="0" />
+    <Test ID="t12" Score="0" Timeout="0" />
+    <Test ID="t13" Score="0" Timeout="0" />
+    <Test ID="t14" Score="0" Timeout="0" />
+    <Test ID="t15" Score="0" Timeout="0" />
+    <Test ID="t16" Score="0" Timeout="0" />
+    <Test ID="t17" Score="0" Timeout="0" />
+    <Test ID="t18" Score="0" Timeout="0" />
+  </Tests>
+</Exam>

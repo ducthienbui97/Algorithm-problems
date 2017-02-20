@@ -1,0 +1,30 @@
+<Exam Name="palrad" TestScore="1" TestTimeout="4" ResultComparer="WordIgnoreCase">
+  <Inputs>
+    <Text>palrad.INP</Text>
+  </Inputs>
+  <Outputs>
+    <Text>palrad.OUT</Text>
+  </Outputs>
+  <Tests>
+    <Test ID="test01" Score="0" Timeout="0" />
+    <Test ID="test02" Score="0" Timeout="0" />
+    <Test ID="test03" Score="0" Timeout="0" />
+    <Test ID="test04" Score="0" Timeout="0" />
+    <Test ID="test05" Score="0" Timeout="0" />
+    <Test ID="test06" Score="0" Timeout="0" />
+    <Test ID="test07" Score="0" Timeout="0" />
+    <Test ID="test08" Score="0" Timeout="0" />
+    <Test ID="test09" Score="0" Timeout="0" />
+    <Test ID="test10" Score="0" Timeout="0" />
+    <Test ID="test11" Score="0" Timeout="0" />
+    <Test ID="test12" Score="0" Timeout="0" />
+    <Test ID="test13" Score="0" Timeout="0" />
+    <Test ID="test14" Score="0" Timeout="0" />
+    <Test ID="test15" Score="0" Timeout="0" />
+    <Test ID="test16" Score="0" Timeout="0" />
+    <Test ID="test17" Score="0" Timeout="0" />
+    <Test ID="test18" Score="0" Timeout="0" />
+    <Test ID="test19" Score="0" Timeout="0" />
+    <Test ID="test20" Score="0" Timeout="0" />
+  </Tests>
+</Exam>

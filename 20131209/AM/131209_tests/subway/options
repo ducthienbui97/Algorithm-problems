@@ -1,0 +1,13 @@
+problem.type='run'
+problem.runs=10
+problem.max_time=1
+compiler.python.time_multiplier=10
+compiler.jdk.time_multiplier=3
+problem.sample='subway.cpp'
+problem.score.sample=10
+problem.score.real=100
+problem.name='Subway equivalence'
+problem.author='Gwylim Ashley'
+problem.owner='gashley'
+problem.stdin
+problem.stdout

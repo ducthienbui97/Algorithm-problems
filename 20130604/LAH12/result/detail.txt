@@ -1,0 +1,602 @@
+cuong
+	barrel
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Test 10: Wrong answer
+		Test 11: Wrong answer
+		Test 12: Wrong answer
+		Test 13: Wrong answer
+		Point: 0.0
+
+	grey
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Time limit exceeded
+		Point: 90.0
+
+	raft
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Test 10: Wrong answer
+		Test 11: Wrong answer
+		Test 12: Wrong answer
+		Test 13: Wrong answer
+		Test 14: Wrong answer
+		Test 15: Wrong answer
+		Test 16: Wrong answer
+		Test 17: Wrong answer
+		Point: 0.0
+
+	Total: 90.0
+
+DLong
+	barrel
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Test 10: Wrong answer
+		Test 11: Wrong answer
+		Test 12: Wrong answer
+		Test 13: Wrong answer
+		Point: 42.8571428571
+
+	grey
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 100.0
+
+	raft
+		Test 0: Wrong answer
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Wrong answer
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Wrong answer
+		Test 13: Correct
+		Test 14: Correct
+		Test 15: Wrong answer
+		Test 16: Wrong answer
+		Test 17: Correct
+		Point: 72.2222222222
+
+	Total: 215.079365079
+
+Dung
+	barrel
+		Point: File not found
+
+	grey
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 100.0
+
+	raft
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Test 13: Correct
+		Test 14: Correct
+		Test 15: Correct
+		Test 16: Correct
+		Test 17: Correct
+		Point: 100.0
+
+	Total: 200.0
+
+Hung
+	barrel
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Test 10: Wrong answer
+		Test 11: Wrong answer
+		Test 12: Wrong answer
+		Test 13: Wrong answer
+		Point: 0.0
+
+	grey
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 100.0
+
+	raft
+		Point: File not found
+
+	Total: 100.0
+
+HYQ
+	barrel
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Test 10: Wrong answer
+		Test 11: Wrong answer
+		Test 12: Wrong answer
+		Test 13: Wrong answer
+		Point: 35.7142857143
+
+	grey
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 100.0
+
+	raft
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Test 13: Correct
+		Test 14: Correct
+		Test 15: Correct
+		Test 16: Correct
+		Test 17: Correct
+		Point: 100.0
+
+	Total: 235.714285714
+
+Khanh
+	barrel
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Test 10: Wrong answer
+		Test 11: Wrong answer
+		Test 12: Wrong answer
+		Test 13: Wrong answer
+		Point: 0.0
+
+	grey
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 100.0
+
+	raft
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Test 13: Correct
+		Test 14: Correct
+		Test 15: Correct
+		Test 16: Correct
+		Test 17: Correct
+		Point: 100.0
+
+	Total: 200.0
+
+kien
+	barrel
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Test 10: Wrong answer
+		Test 11: Wrong answer
+		Test 12: Wrong answer
+		Test 13: Wrong answer
+		Point: 35.7142857143
+
+	grey
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 100.0
+
+	raft
+		Test 0: Correct
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Correct
+		Test 9: Wrong answer
+		Test 10: Wrong answer
+		Test 11: Wrong answer
+		Test 12: Wrong answer
+		Test 13: Wrong answer
+		Test 14: Correct
+		Test 15: Correct
+		Test 16: Wrong answer
+		Test 17: Wrong answer
+		Point: 22.2222222222
+
+	Total: 157.936507936
+
+loc
+	barrel
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Correct
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Test 10: Wrong answer
+		Test 11: Wrong answer
+		Test 12: Wrong answer
+		Test 13: Wrong answer
+		Point: 7.14285714286
+
+	grey
+		Test 0: Runtime error
+		Test 1: Runtime error
+		Test 2: Runtime error
+		Test 3: Runtime error
+		Test 4: Runtime error
+		Test 5: Runtime error
+		Test 6: Runtime error
+		Test 7: Runtime error
+		Test 8: Runtime error
+		Test 9: Runtime error
+		Point: 0.0
+
+	raft
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Test 10: Wrong answer
+		Test 11: Wrong answer
+		Test 12: Wrong answer
+		Test 13: Wrong answer
+		Test 14: Wrong answer
+		Test 15: Wrong answer
+		Test 16: Wrong answer
+		Test 17: Wrong answer
+		Point: 0.0
+
+	Total: 7.14285714286
+
+nghia
+	barrel
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Test 10: Wrong answer
+		Test 11: Wrong answer
+		Test 12: Wrong answer
+		Test 13: Wrong answer
+		Point: 42.8571428571
+
+	grey
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Time limit exceeded
+		Point: 90.0
+
+	raft
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Test 13: Correct
+		Test 14: Correct
+		Test 15: Correct
+		Test 16: Correct
+		Test 17: Correct
+		Point: 100.0
+
+	Total: 232.857142857
+
+tson
+	barrel
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Test 10: Wrong answer
+		Test 11: Wrong answer
+		Test 12: Wrong answer
+		Test 13: Wrong answer
+		Point: 0.0
+
+	grey
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 100.0
+
+	raft
+		Point: File not found
+
+	Total: 100.0
+
+tuan
+	barrel
+		Point: File not found
+
+	grey
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Time limit exceeded
+		Point: 90.0
+
+	raft
+		Point: File not found
+
+	Total: 90.0
+
+VuHoangMinh
+	barrel
+		Test 0: Wrong answer
+		Test 1: Wrong answer
+		Test 2: Wrong answer
+		Test 3: Wrong answer
+		Test 4: Wrong answer
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Test 10: Wrong answer
+		Test 11: Wrong answer
+		Test 12: Wrong answer
+		Test 13: Wrong answer
+		Point: 0.0
+
+	grey
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Point: 100.0
+
+	raft
+		Point: File not found
+
+	Total: 100.0
+
+Hanh
+	barrel
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Wrong answer
+		Test 6: Wrong answer
+		Test 7: Wrong answer
+		Test 8: Wrong answer
+		Test 9: Wrong answer
+		Test 10: Wrong answer
+		Test 11: Wrong answer
+		Test 12: Wrong answer
+		Test 13: Wrong answer
+		Point: 35.7142857143
+
+	grey
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Time limit exceeded
+		Point: 90.0
+
+	raft
+		Test 0: Correct
+		Test 1: Correct
+		Test 2: Correct
+		Test 3: Correct
+		Test 4: Correct
+		Test 5: Correct
+		Test 6: Correct
+		Test 7: Correct
+		Test 8: Correct
+		Test 9: Correct
+		Test 10: Correct
+		Test 11: Correct
+		Test 12: Correct
+		Test 13: Correct
+		Test 14: Correct
+		Test 15: Correct
+		Test 16: Correct
+		Test 17: Correct
+		Point: 100.0
+
+	Total: 225.714285714
+

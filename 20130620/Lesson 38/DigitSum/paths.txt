@@ -1,0 +1,4 @@
+tests\1.inp
+tests\1.out
+tests\2.inp
+tests\2.out

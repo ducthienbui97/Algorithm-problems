@@ -1,0 +1,14 @@
+tests\test01\qv.inp
+tests\test01\qv.out
+tests\test02\qv.inp
+tests\test02\qv.out
+tests\test03\qv.inp
+tests\test03\qv.out
+tests\test04\qv.inp
+tests\test04\qv.out
+tests\test05\qv.inp
+tests\test05\qv.out
+tests\test06\qv.inp
+tests\test06\qv.out
+tests\test07\qv.inp
+tests\test07\qv.out

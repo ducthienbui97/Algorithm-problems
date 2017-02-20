@@ -1,0 +1,31 @@
+#!/usr/bin/perl -w
+use strict;
+use warnings;
+use FindBin;
+
+my $outof = 10;
+my $PROBLEM = "mining";
+
+if (scalar(@ARGV) == 0)
+{
+    # If no arguments, the LaTeX wrapper expects us to spit out the
+    # model solution
+    exec("$FindBin::Bin/$PROBLEM");
+    die "Failed to execute $FindBin::Bin/$PROBLEM: $!";
+}
+
+die "Usage: $0 <input> <output> <model>\n" unless scalar(@ARGV) == 3;
+my ($input, $output, $precomp) = @ARGV;
+system("/usr/bin/diff", "-abBus", $output, $precomp);
+if ($? == 0)
+{
+    print "Score:  $outof\nReason: Correct\n";
+}
+elsif ($? == 0x100)
+{
+    print "Score:  0\nReason: Incorrect\n";
+}
+else
+{
+    die "diff failed";
+}

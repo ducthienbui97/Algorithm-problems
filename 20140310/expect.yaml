@@ -1,0 +1,7 @@
+nome_breve: "expect"
+nome: "expect"
+timeout: 1
+memlimit: 256
+n_input: 10
+infile: ""
+outfile: ""

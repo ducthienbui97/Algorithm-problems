@@ -1,0 +1,128 @@
+Program: nghi
+
+Test 1:
+tests\test01\domino.inp
+tests\test01\domino.out
+Program runed in: 1311 ms
+OK
+
+Test 2:
+tests\test02\domino.inp
+tests\test02\domino.out
+Program runed in: 46 ms
+OK
+
+Test 3:
+tests\test03\domino.inp
+tests\test03\domino.out
+Program runed in: 31 ms
+OK
+
+Test 4:
+tests\test04\domino.inp
+tests\test04\domino.out
+Program runed in: 31 ms
+OK
+
+Test 5:
+tests\test05\domino.inp
+tests\test05\domino.out
+Program runed in: 31 ms
+OK
+
+Test 6:
+tests\test06\domino.inp
+tests\test06\domino.out
+Program runed in: 31 ms
+OK
+
+Test 7:
+tests\test07\domino.inp
+tests\test07\domino.out
+Program runed in: 31 ms
+OK
+
+Test 8:
+tests\test08\domino.inp
+tests\test08\domino.out
+Program runed in: 47 ms
+OK
+
+Test 9:
+tests\test09\domino.inp
+tests\test09\domino.out
+Program runed in: 32 ms
+OK
+
+Test 10:
+tests\test10\domino.inp
+tests\test10\domino.out
+Program runed in: 47 ms
+OK
+
+Test 11:
+tests\test11\domino.inp
+tests\test11\domino.out
+Program runed in: 905 ms
+OK
+
+Test 12:
+tests\test12\domino.inp
+tests\test12\domino.out
+Program runed in: 437 ms
+OK
+
+Test 13:
+tests\test13\domino.inp
+tests\test13\domino.out
+Program runed in: 452 ms
+OK
+
+Test 14:
+tests\test14\domino.inp
+tests\test14\domino.out
+Program runed in: 140 ms
+OK
+
+Test 15:
+tests\test15\domino.inp
+tests\test15\domino.out
+Program runed in: 203 ms
+OK
+
+Test 16:
+tests\test16\domino.inp
+tests\test16\domino.out
+Program runed in: 921 ms
+OK
+
+Test 17:
+tests\test17\domino.inp
+tests\test17\domino.out
+Program runed in: 936 ms
+OK
+
+Test 18:
+tests\test18\domino.inp
+tests\test18\domino.out
+Program runed in: 905 ms
+OK
+
+Test 19:
+tests\test19\domino.inp
+tests\test19\domino.out
+Program runed in: 889 ms
+OK
+
+Test 20:
+tests\test20\domino.inp
+tests\test20\domino.out
+Program runed in: 889 ms
+OK
+
+You passed 20 / 20 testcases
+Slowest testcase: 1311 ms
+Fastest testcase: 31 ms
+Your point is: 100.00 / 100
+
+ACCEPTED

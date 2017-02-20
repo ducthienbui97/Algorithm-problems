@@ -1,0 +1,20 @@
+<Exam Name="p2path" TestScore="10" TestTimeout="1" ResultComparer="WordIgnoreCase">
+  <Inputs>
+    <Text>p2path.INP</Text>
+  </Inputs>
+  <Outputs>
+    <Text>p2path.OUT</Text>
+  </Outputs>
+  <Tests>
+    <Test ID="Test0" Score="0" Timeout="0" />
+    <Test ID="Test1" Score="0" Timeout="0" />
+    <Test ID="Test2" Score="0" Timeout="0" />
+    <Test ID="Test3" Score="0" Timeout="0" />
+    <Test ID="Test4" Score="0" Timeout="0" />
+    <Test ID="Test5" Score="0" Timeout="0" />
+    <Test ID="Test6" Score="0" Timeout="0" />
+    <Test ID="Test7" Score="0" Timeout="0" />
+    <Test ID="Test8" Score="0" Timeout="0" />
+    <Test ID="Test9" Score="0" Timeout="0" />
+  </Tests>
+</Exam>

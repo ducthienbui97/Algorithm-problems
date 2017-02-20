@@ -1,0 +1,105 @@
+% Fill in the template below. Here are some LaTeX quick tips:
+% - %, {, }, $, _, ^, ~, \ and & are all special characters. Generally
+%   precede them by a \ to get the literal character, although
+%   \backslash gives a \ and \~{} gives a ~.
+% - % is a comment character.
+% - Surround maths with $'s (for example, $a+(b^c)$). LaTeX takes care
+%   of correct spacing. You can get <= and >= with \le and \ge in maths
+%   mode. _ and ^ give subscripts and superscripts. If the subscript or
+%   superscript is more than one character, put it inside braces {}.
+% - To get a ..., use \dots.
+% - To get an opening single quote, use ` and not '
+% - For double quotes, use `` to open and '' to close. LaTeX turns these
+%   into double quotes.
+% - A blank line starts a new paragraph.
+% - To get a hyphen, use - (e.g. half-baked). To get a range, use -- (e.g.
+%   1--10). To get a dash use --- (e.g. don't do that --- it will be taken
+%   care of).
+% - See the template Scoring section for how to use bullets. For a numbered
+%   list, replace itemize with enumerate.
+% - To make large numbers more readable use \ in math mode, as a thousands
+%   separator. See the template Constraints section for an example.
+% - Use "\ " (without quotes) after after full stops in abbreviations. This
+%   tells LaTeX not to include a larger space used between sentences.
+\documentclass{saco}
+\begin{document}
+\maketitle
+
+\section{Introduction}
+Bruce and Carl live in the same area and constantly send each other messages.
+However, recently the local internet exchange went down and both have lost
+internet access.
+
+But all is not lost, as both have a large reserve of messenger swallows
+(African, specifically) and coconuts! Unfortunately, the length of messages one
+can write on a coconut is severely limited. Therefore, they wish to compress
+the messages they send.
+
+Thankfully, foreseeing this eventuality, both Bruce and Carl have agreed on a
+compression algorithm (described below). Your task (other than carving the
+messages on the coconuts) is to come up with a program to
+optimally compress the messages.
+
+\section{Compression Algorithm}
+The messages you will be compressing consist purely of uppercase letters (from
+A to Z). The compression algorithm works by encoding repeated subsequences as a
+number (indicating the number of repetitions) and the subsequence. For instance,
+\texttt{\'TESTTESTTESTTEST\'} would get encoded as \texttt{'4(TEST)'}.
+
+But due to the notation we have chosen, we can recursively encode subsequences.
+For instance, \texttt{CATDOGDOGCATDOGDOG} could be compressed as
+\texttt{2(CAT2(DOG))}.
+
+More formally, the decompression algorithm is, where $S$ is a compressed string:
+\begin{itemize}
+  \item If $S$ consists of a single uppercase letter, then it decompresses to
+        $S$.
+  \item If $S$ can be split into two compressed strings $T$ and $Q$, which
+        decompress to $T'$ and $Q'$ respectively, then $S$ decompresses to
+        $T'Q'$ ($T'$ followed by $Q'$).
+  \item If $S$ is a compressed string in the form $k(Q)$, where $k$ is a
+        decimal encoded integer and $Q$ is a compressed string, then $S$
+        decompresses to $k$ repetitions of $Q'$, where $Q'$ is the
+        decompression of $Q$.
+\end{itemize}
+
+\section{Task}
+Given $N$ and a message of length $N$, you have to output the shortest possible
+encoding of the message in the compression format.
+
+If there are multiple possible ways of encoding the message you can output any
+one of them.
+
+\section{Example}
+% Provide a concrete example.
+
+\inputformat
+The first line contains a single integer, $N$. The next line contains $N$
+uppercase letters.
+
+\sampleinput
+
+\outputformat
+A single line containing the shortest compression.
+
+\sampleoutput
+
+\section{Constraints}
+\begin{itemize}
+  \item $1 \leq N \leq 100$
+\end{itemize}
+
+Additionally, in 50\% of the test cases:
+\begin{itemize}
+  \item $1 \leq N \leq 13$
+\end{itemize}
+
+\timelimit
+
+\feedback
+
+\section{Scoring}
+A correct solution will score 100\% while an incorrect solution will score
+0\%.
+
+\end{document}

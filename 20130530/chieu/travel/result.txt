@@ -1,0 +1,24 @@
+Program: ddat
+
+Test 1:
+tests\0.inp
+tests\0.out
+Program runed in: 109 ms
+OK
+
+Test 2:
+tests\1.inp
+tests\1.out
+Program runed in: 16 ms
+OK
+
+Test 3:
+tests\2.inp
+tests\2.out
+Program runed in: 454 ms
+OK
+
+Test 4:
+tests\3.inp
+tests\3.out
+Prog

@@ -1,0 +1,19 @@
+FPC:
+
+ppc386 -XS -O2 foo.pas
+
+
+GCC:
+
+gcc -static -O2 foo.c creclib.o
+
+
+G++:
+
+g++ -static -O2 foo.cpp creclib_cpp.o
+
+
+
+Note: the attached object files are compiled for Linux 
+and will not work on Windows.
+
