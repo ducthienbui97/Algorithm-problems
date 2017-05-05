@@ -1,5 +1,8 @@
 *.in* linguist-vendored
 *.out* linguist-vendored
 *.ans* linguist-vendored
+*.in linguist-vendored
+*.out linguist-vendored
+*.ans linguist-vendored
 *.pas linguist-vendored
 *.exe linguist-vendored
