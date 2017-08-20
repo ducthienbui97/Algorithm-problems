@@ -1,0 +1,8 @@
+*.o
+*.exe
+*test/*
+*tests/*
+*.in
+*.out
+*.inp
+*.ans
