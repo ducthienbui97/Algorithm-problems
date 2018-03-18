@@ -56,8 +56,10 @@ void solve(int t) {
             if(lo[vs[i].back() - 'a'].find(ed) != lo[vs[i].back() - 'a'].end()){
                 bool ok = true;
                 for(auto&p:vc[i]){
-                    if(counter[ed][p.first] - counter[st - 1][p.first] != p.second)
+                    if(counter[ed][p.first] - counter[st - 1][p.first] != p.second){
                         ok = false;
+                        break;
+                    }
                 }
                 if(ok){
                     ans ++;

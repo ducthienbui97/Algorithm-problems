@@ -4,3 +4,17 @@ Case #3: 548
 Case #4: 2
 Case #5: 601
 Case #6: 3
+Case #7: 1
+Case #8: 10000
+Case #9: 18573
+Case #10: 113
+Case #11: 12
+Case #12: 5
+Case #13: 1
+Case #14: 1
+Case #15: 1
+Case #16: 401
+Case #17: 46
+Case #18: 78
+Case #19: 1
+Case #20: 3
